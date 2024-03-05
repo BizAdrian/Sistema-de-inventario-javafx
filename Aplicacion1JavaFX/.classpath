@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="lib" path="dist/Aplicacion1JavaFX.jar"/>
+	<classpathentry kind="lib" path="dist/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="dist/lib/postgresql-9.1-902.jdbc4.jar"/>
+	<classpathentry kind="lib" path="librerias/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="librerias/postgresql-9.1-902.jdbc4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
